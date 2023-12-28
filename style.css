@@ -1,0 +1,45 @@
+
+
+body{
+
+   background-color:  #24353f!important;
+   font-family: 'Titillium Web', sans-serif;
+   letter-spacing: 1px
+}
+
+
+
+h1{
+
+    color: #17a2b8 !important;
+}
+
+::placeholder {
+
+    color: white !important;
+    letter-spacing: 1px
+  }
+.btn{
+
+    letter-spacing: 2px
+}
+
+
+.form--hidden {
+    display: none;
+}
+
+.form__message {
+
+    color: white;
+    padding-top: 10px;
+}
+
+
+
+input[type="text"],
+input[type="password"] {
+    color: white!important;
+}
+
+
